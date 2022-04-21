@@ -1,3 +1,12 @@
-# Express Book Store (Maintenance Ex - On Progress)
+# Xormjection (formerly express-book-store)
 
-Example studi case for everyone, after learning basic nodejs, book store api using Express + Typescript and Knex ORM, using OOP pattern.
+Example Express with TS, Knex ORM and Objection. (Using OOP Pattern)
+
+## Installation
+
+## Contributing
+
+## Contributors
+
+- [Restu Wahyu Saputra (Owner)](https://github.com/restuwahyu13)
+- [Baharsah (Contributor)](https://github.com/baharsah)

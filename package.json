@@ -1,7 +1,7 @@
 {
-  "name": "express-book-store",
-  "version": "0.0.1",
-  "description": "Example book store api using Express + Typescript and Knex ORM + Objection.",
+  "name": "xormjection",
+  "version": "0.0.2",
+  "description": "Example Express + Typescript and Knex ORM + Objection.",
   "main": "app.js",
   "files": [
     "dist/**/*"

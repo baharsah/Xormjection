@@ -4,6 +4,14 @@ Example Express with TS, Knex ORM and Objection. (Using OOP Pattern)
 
 ## Installation
 
+1. Github use template
+
+You can directly use this template by clicking **Use this template** button in right of **Github clone button**
+
+2. NPM Project
+
+**Coming Soon**
+
 ## Contributing
 
 ## Contributors

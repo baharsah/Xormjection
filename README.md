@@ -10,3 +10,7 @@ Example Express with TS, Knex ORM and Objection. (Using OOP Pattern)
 
 - [Restu Wahyu Saputra (Owner)](https://github.com/restuwahyu13)
 - [Baharsah (Contributor)](https://github.com/baharsah)
+
+## Project using this template
+
+- [Onjob](https://onjob.id/)
